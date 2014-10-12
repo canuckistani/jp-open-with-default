@@ -4,8 +4,12 @@
   "description": "easily open the supplied path with the OS default application.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jpm test"
   },
-  "author": "",
-  "license": "ISC"
+  "engines": {
+    "firefox": ">=33.0a1",
+    "fennec": ">=33.0a1"
+  },
+  "author": "Jeff Griffiths ( @canuckistani )",
+  "license": "MIT"
 }

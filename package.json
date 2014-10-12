@@ -1,0 +1,11 @@
+{
+  "name": "jp-open-with-default",
+  "version": "0.0.1",
+  "description": "easily open the supplied path with the OS default application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
